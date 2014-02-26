@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-
- Author: Gustavo Giráldez <gustavo.giraldez@gmx.net>
- Copyright (C) 2003 Gustavo Giráldez <gustavo.giraldez@gmx.net>
- Copyright (C) 2004 Benoît Dejean <TaZForEver@free.fr>
- Copyright (C) 2006 Steve Frécinaux <nud@apinc.org>
+ Author: Matthias F. Brandstetter <mfb@mabra.me>
+ Copyright (C) 2014 Matthias F. Brandstetter <mfb@mabra.me>
 
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
@@ -20,8 +17,8 @@
  License along with this library; if not, write to the
  Free Software Foundation, Inc., 59 Temple Place - Suite 330,
  Boston, MA 02111-1307, USA.
-
 -->
+
 <language id="gdscript" _name="GDScript" version="2.0" _section="Scripts">
   <metadata>
     <property name="mimetypes">text/x-gdscript</property>
