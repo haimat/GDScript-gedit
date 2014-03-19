@@ -228,6 +228,7 @@
           <keyword>dectime</keyword>
           <keyword>randomize</keyword>
           <keyword>rand</keyword>
+          <keyword>randi</keyword>
           <keyword>randf</keyword>
           <keyword>rand_range</keyword>
           <keyword>rand_seed</keyword>
