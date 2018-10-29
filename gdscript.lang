@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
- Author: Matthias F. Brandstetter <pub@mabra.me>
+ Copyright (C) 2018 Jack R Linhart <iatenine@gmail.com>
  Copyright (C) 2014 Matthias F. Brandstetter <pub@mabra.me>
 
  This library is free software; you can redistribute it and/or
@@ -19,7 +19,7 @@
  Boston, MA 02111-1307, USA.
 -->
 
-<language id="gdscript" _name="GDScript" version="2.0" _section="Scripts">
+<language id="gdscript" _name="GDScript" version="3.0" _section="Scripts">
   <metadata>
     <property name="mimetypes">text/x-gdscript</property>
     <property name="globs">*.gd</property>
