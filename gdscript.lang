@@ -103,6 +103,7 @@
         <context id="special-variables" style-ref="special-variable">
           <prefix>(?&lt;![\w\.])</prefix>
           <keyword>_init</keyword>
+          <keyword>_ready</keyword>
         </context>
 
         <context id="boolean" style-ref="boolean">
@@ -148,7 +149,9 @@
 
         <context id="keyword" style-ref="keyword">
           <keyword>and</keyword>
+          <keyword>assert</keyword>          
           <keyword>break</keyword>
+          <keyword>breakpoint</keyword>
           <keyword>class</keyword>
           <keyword>const</keyword>
           <keyword>continue</keyword>
@@ -158,20 +161,27 @@
           <keyword>export</keyword>
           <keyword>extends</keyword>
           <keyword>false</keyword>
+          <keyword>float</keyword>
           <keyword>for</keyword>
           <keyword>func</keyword>
           <keyword>if</keyword>
           <keyword>in</keyword>
+          <keyword>int</keyword>
+          <keyword>not</keyword>
           <keyword>null</keyword>
+          <keyword>onready</keyword>
           <keyword>or</keyword>
           <keyword>pass</keyword>
           <keyword>return</keyword>
           <keyword>self</keyword>
+          <keyword>setget</keyword>
+          <keyword>signal</keyword>
+          <keyword>static</keyword>
           <keyword>tool</keyword>
           <keyword>true</keyword>
           <keyword>var</keyword>
           <keyword>while</keyword>
-          <keyword>static</keyword>
+          <keyword>yield</keyword>
         </context>
 
         <context id="builtin-objects" style-ref="builtin-object">
